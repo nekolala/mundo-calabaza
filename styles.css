@@ -1,0 +1,49 @@
+nav{
+    background-color:rgb(252, 155, 35, 0.8);
+    padding: 1%;
+}
+nav a{
+    font-size: 1.6em; 
+    text-decoration: none;
+    padding: 1.2% 3%;
+    font-family: monospace, Arial; 
+    color: white;
+    background-color:#fc9b23;
+}
+nav a:hover{
+    background-color: #c4c46b;
+    color: rgb(252, 155, 35, 0.8);
+}
+header img{
+    margin-left: 90%;
+}
+footer{
+    background-color:#c4c46b;
+    padding: 1%;
+ width: 100vw;
+ position: fixed;
+    bottom: 0;
+    align-items: center;
+}
+body{
+    margin:0;
+    padding: 0;
+    background-color: #f3eae2;
+    background-image: url(imagenes/fondo.png);
+}
+h1, p{
+    margin: 0; 
+}
+main{
+    background-color: white;
+    width: 70%;
+    margin:2% auto; 
+    text-align: center; 
+    border-radius: 10px;
+    padding:5%;
+    border-radius: 30px;
+    
+}
+.link:hover{
+   background-color: black;
+}
